@@ -1,0 +1,48 @@
+Transaction_ID,Date ,Time,Day_of_week,Customer_name ,Customer_Gender,Customer_Type,Service_Type,Service_Category,Duration_Minutes,Price,Transportation_Fee,Total_Amount,Payment_Method,Customer_Satisfaction
+TXN001,1/5/2025,1/0/1900 10:00,Saturday,Arc. 'Yomi Shittu,Male,Active ,Beard Trim,Beard,30,2000,500,2500,Transfer,5
+TXN002,7/9/2025,1/0/1900 17:00,Thursday,Aydoutfit,Male,Active ,Haircut,Hair & Beard,60,4000,500,4500,Transfer,5
+TXN003,1/10/2025,1/0/1900 8:00,Sunday,Demola,Male,Active ,Haircut,Hair & Beard,60,4000,500,4500,Cash,5
+TXN004,7/14/2025,1/0/1900 11:45,Wedsnesday,Darlexx,Male,Returning,Shave & Dye,Hair,45,3000,500,3500,Transfer,4
+TXN005,1/15/2025,1/0/1900 9:05,Friday,Dolph,Male,Old,Haircut,Hair & Beard,60,2500,500,3000,Transfer,5
+TXN006,7/19/2025,1/0/1900 10:50,Saturday,Mike,Male,Old,Haircut & Dye,Hair,45,3000,1000,4000,Transfer,3
+TXN007,1/20/2025,1/0/1900 15:10,Friday,Fransix,Male,Active ,Haircut & Dye,Hair,45,4000,700,4700,Transfer,5
+TXN008,7/23/2025,1/0/1900 9:30,Saturday,Tobi,Male,Old,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,2
+TXN009,1/24/2025,1/0/1900 10:20,Sunday,Hammed,Male,Old,Shave & Dye,Hair & Beard,60,2500,500,3000,Transfer,3
+TXN010,7/28/2025,1/0/1900 10:00,Saturday,Fredrick,Male,Old,Haircut,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN011,1/29/2025,1/0/1900 14:20,Saturday,FST,Male,Active ,Haircut & Dye,Hair & Beard,60,4500,1000,5500,Transfer,5
+TXN012,8/2/2025,1/0/1900 14:00,Wedsnesday,Goodness,Male,New,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN013,2/3/2025,1/0/1900 10:00,Tuesday,Mary,Female,Old,Haircut & Dye,Hair,45,5000,2000,7000,Transfer,4
+TXN014,8/7/2025,1/0/1900 14:00,Friday,Forturnate,Male,Old,Haircut & Dye,Hair,45,3000,500,3500,Transfer,5
+TXN015,2/8/2025,1/0/1900 8:00,Saturday,Teezywears,Male,Old,Haircut & Dye,Hair,45,3000,500,3500,Transfer,4
+TXN016,7/14/2025,1/0/1900 11:05,Friday,Jay,Male,Returning,Haircut & Dye,Hair,45,3000,500,3500,Transfer,5
+TXN017,1/15/2025,1/0/1900 10:00,Saturday,Jay jnr,Male,Returning,Shave & Dye,Hair,45,2500,500,3000,Transfer,5
+TXN018,7/19/2025,1/0/1900 14:20,Sunday,Joy,Male,New,Haircut & Dye,Hair,45,3000,500,3500,Transfer,4
+TXN019,1/20/2025,1/0/1900 14:00,Saturday,Junior,Male,New,Shave & Dye,Hair,45,2500,500,3000,Transfer,4
+TXN020,7/23/2025,1/0/1900 10:00,Saturday,Legend,Male,New,Haircut & Dye,Hair,45,3000,500,3500,Transfer,3
+TXN021,1/24/2025,1/0/1900 14:00,Wedsnesday,Lexy,Male,Old,Haircut,Hair & Beard,60,3000,500,3500,Transfer,3
+TXN022,1/5/2025,1/0/1900 8:00,Saturday,Luxesirius,Male,Returning,Shave ,Hair & Beard,60,2500,500,3000,Transfer,5
+TXN023,7/9/2025,1/0/1900 11:05,Friday,Huga,Male,Active ,Haircut,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN024,1/10/2025,1/0/1900 10:00,Saturday,Pretty,Female,Old,Shave & Dye,Hair,45,3700,1000,4700,Cash,2
+TXN025,7/14/2025,1/0/1900 15:10,Sunday,Oluwatobi,Male,Active ,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN026,1/15/2025,1/0/1900 9:30,Saturday,Tofunmi,Male,Old,Haircut & Dye,Hair,45,3000,500,3500,Transfer,3
+TXN027,7/19/2025,1/0/1900 10:20,Saturday,Wessy,Male,Old,Haircut,Hair & Beard,60,3000,500,3500,Cash,3
+TXN028,1/20/2025,1/0/1900 10:00,Saturday,Tunde,Male,Active ,Haircut,Hair,45,3000,500,3500,Transfer,5
+TXN029,7/23/2025,1/0/1900 14:20,Saturday,Harrison,Male,Returning,Haircut,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN030,9/14/2025,1/0/1900 14:00,Friday,Chris,Male,New,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN031,3/17/2025,1/0/1900 10:00,Saturday,Ibrahim,Male,Returning,Haircut,Hair,45,3000,0,3000,Cash,5
+TXN032,9/18/2025,1/0/1900 14:00,Sunday,Ayinde,Male,Active ,Haircut,Hair,45,3000,500,3500,Transfer,5
+TXN033,3/22/2025,1/0/1900 8:00,Saturday,Khameleon,Male,Active ,Haircut,Hair & Beard,60,3000,0,3000,Cash,5
+TXN034,9/23/2025,1/0/1900 11:05,Saturday,Silt,Male,Returning,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN035,3/27/2025,1/0/1900 10:00,Saturday,Willams,Male,Active ,Haircut & Dye,Hair,45,3000,0,3000,Transfer,5
+TXN036,9/28/2025,1/0/1900 15:00,Saturday,Christopher,Male,Active ,Haircut & Dye,Hair,45,3000,0,3000,Transfer,5
+TXN037,4/1/2025,1/0/1900 9:30,Friday,Tolulope,Male,Returning,Haircut,Hair & Beard,60,3000,0,3000,Transfer,4
+TXN038,10/3/2025,1/0/1900 10:45,Saturday,Scofield,Male,Old,Haircut & Dye,Hair,45,3000,500,3500,Transfer,1
+TXN039,4/5/2025,1/0/1900 10:00,Monday,Frick,Male,Active ,Haircut & Dye,Hair,45,3000,1000,4000,Cash,5
+TXN040,7/9/2025,1/0/1900 17:00,Saturday,Tupagzus,Male,Old,Haircut & Dye,Hair & Beard,60,3000,0,3000,Cash,2
+TXN041,1/10/2025,1/0/1900 17:00,Saturday,Klassic,Male,Old,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,3
+TXN042,7/14/2025,1/0/1900 8:00,Wedsnesday,Mustapha,Male,Returning,Haircut & Dye,Hair,45,3000,500,3500,Transfer,5
+TXN043,1/15/2025,1/0/1900 11:45,Sunday,Habeeb,Male,Active ,Haircut,Hair ,45,3000,0,3000,Transfer,5
+TXN044,7/19/2025,1/0/1900 9:05,Saturday,Davesmile,Male,Active ,Haircut & Dye,Hair & Beard,60,3000,500,3500,Transfer,5
+TXN045,1/20/2025,1/0/1900 10:50,Saturday,Honcho,Male,Old,Haircut & Dye,Hair & Beard,60,3000,1500,4500,Transfer,4
+TXN046,7/23/2025,1/0/1900 15:00,Friday,Ola_Fashion,Male,Active ,Haircut,Hair & Beard,60,2000,500,2500,Transfer,4
+TXN047,1/24/2025,1/0/1900 9:30,Saturday,Mosco,Male,Returning,Haircut & Dye,Hair & Beard,60,3000,1000,4000,Transfer,4
