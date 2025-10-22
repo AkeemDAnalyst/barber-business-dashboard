@@ -1,59 +1,31 @@
-# 💈 Barber Business Dashboard – Data Analytics Project  
+# 💈 Barber Business Performance Dashboard
 
-### 🧠 Project Overview  
-This project is inspired by a real-world barber shop business analysis.  
-The goal is to understand how daily operations, customer behaviors, and service performance influence overall revenue and satisfaction.  
+## 🧩 Project Overview
+This project analyzes a home-service barber business to uncover revenue patterns, customer satisfaction trends, and performance insights.
 
-It represents a full **data analytics pipeline** — from raw transaction records in Excel to **data cleaning**, **SQL-based exploratory data analysis (EDA)**, and an **interactive Power BI dashboard**.  
+## 🧰 Tools Used
+- Excel – Data creation and formatting  
+- Power Query – Data cleaning and transformation  
+- SQL – Business EDA and analysis  
+- Power BI – Dashboard creation and insights visualization  
 
-The insights help answer key business questions such as:  
-- 💇 Which services bring in the most revenue?  
-- 👥 Who are the most valuable customers (new vs returning)?  
-- 🗓️ What times and days are most profitable?  
-- 💳 How do payment methods and satisfaction relate to customer loyalty?  
+## 📊 Key Insights
+- Saturdays and Fridays generate the highest total revenue.
+- Haircut & Dye services contribute the most to overall sales.
+- Male customers dominate transactions, but female satisfaction is higher.
+- Returning and old customers bring in consistent revenue.
 
----
+## 💡 Recommendations
+- Increase weekend staff to handle higher demand.
+- Offer loyalty discounts for Haircut & Dye services.
+- Run promotions to attract new clients during weekdays.
 
-### 🧰 Tools & Technologies Used  
-| Tool | Purpose |
-|------|----------|
-| **Excel / Power Query** | Data cleaning and preparation |
-| **SQL Server** | Exploratory Data Analysis (EDA) |
-| **Power BI** | Dashboard visualization and business reporting |
-| **GitHub** | Project documentation and version control |
+## 📎 Files
+- `barber_transaction_cleaned.csv` – Cleaned dataset  
+- `barber_business_EDA.sql` – SQL queries for EDA  
+- `Barber_Business_Dashboard.pbix` *(link via Google Drive)*  
+- `Project_Summary.pdf` – Report summary  
+- `Dashboard_Screenshots/` – Visual snapshots of Power BI dashboard  
 
----
-
-### 📊 Dataset Overview  
-The dataset contains detailed transaction-level data from a simulated barber business, including:  
-- Service details (type, category, duration, price)  
-- Customer demographics and visit type (new/returning)  
-- Payment methods and satisfaction ratings  
-- Transportation fees and total revenue  
-
----
-
-### 📈 Key Insights  
-- 💰 Haircut and grooming combinations generated the highest overall revenue.  
-- 👨‍🦰 Returning customers consistently showed higher satisfaction and spending.  
-- 🕐 Peak hours were late afternoons and weekends.  
-- 💳 Digital payments contributed to faster service and higher tips.  
-
----
-
-### 🖼️ Dashboard Preview  
-*(Attach your Power BI dashboard screenshot here)*  
-
----
-
-### 🧩 Resume Summary  
-**Project Title:** Barber Business Data Analytics Dashboard  
-**Objective:** To analyze barber shop operations and identify key drivers of revenue, customer satisfaction, and service efficiency using data analytics tools.  
-**Tech Stack:** Excel | SQL Server | Power BI | GitHub  
-
----
-
-### 📎 Author  
-**Name:** Yoo Nsn  
-**Location:** Monroe, Michigan  
-**GitHub:** [Your GitHub Profile Link Here]  
+## 🔗 Live Dashboard
+View dashboard and full project here: [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK)
