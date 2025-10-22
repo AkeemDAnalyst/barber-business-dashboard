@@ -28,4 +28,4 @@ This project analyzes a home-service barber business to uncover revenue patterns
 - `Dashboard_Screenshots/` – Visual snapshots of Power BI dashboard  
 
 ## 🔗 Live Dashboard
-View dashboard and full project here: [Google Drive Link](YOUR_GOOGLE_DRIVE_LINK)
+View dashboard and full project here: [Google Drive Link][(YOUR_GOOGLE_DRIVE_LINK)](https://drive.google.com/drive/folders/1ddcNsGqCa_4Jw7wicBdEhITI7WCDabPB)
